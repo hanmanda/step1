@@ -1,0 +1,14 @@
+Git
+
+mail:
+hama110108gf@gmail.com
+
+password:
+uyf56v46J7vyUtN
+
+トークン:
+namae
+
+
+SSHキー取得:
+https://qiita.com/tetsu-upstr/items/e72147250701cf30ee72
